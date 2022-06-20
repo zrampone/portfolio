@@ -1,4 +1,5 @@
 # Portfolio
+
 # Bio
 
 👋 Hi, I’m Zach Rampone and I'm a crypto analyst, writer, and researcher mainly focused on DeFi.
@@ -8,13 +9,13 @@
 
 -   University of Connecticut, Bachelors of Science in Finance (2021)
 
-## Work Experience
+# Work Experience
 
 -   *Blockstar Advisors*- Content Writer (April 2022 - Present)
 -   *CanvasArtists*- Co-founder/crypto analyst (September 2021 - April 2022)
 -   *Morgan Stanley*- Wealth Management Intern (May 2021 - September 2021)
 
-## Writing Portfolio
+# Writing Portfolio
 
 **Articles**
 
@@ -33,7 +34,7 @@
 -   	Awarded 1st place in the L1s Category by Everscale
 -   	[Video analysis link](https://www.loom.com/share/ba926c915b3c4b4d8c13670fcea3ff3e)
    	
-## How to Contact
+# How to Contact
 - Email: zrampone@gmail.com
 - Telegram: @zrampone
 - Twitter: [@nfthunter131](https://twitter.com/nfthunter131)
