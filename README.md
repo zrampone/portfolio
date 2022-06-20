@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Bio
 - 
 👋 Hi, I’m Zach Rampone and I'm a crypto analyst, writer, and researcher mainly focused on DeFi.
