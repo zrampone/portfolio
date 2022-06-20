@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Portfolio
+# Bio
 
-You can use the [editor on GitHub](https://github.com/zrampone/zrampone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+👋 Hi, I’m Zach Rampone and I'm a crypto analyst, writer, and researcher mainly focused on DeFi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-   University of Connecticut, Bachelors of Science in Finance (2021)
 
-```markdown
-Syntax highlighted code block
+## Work Experience
 
-# Header 1
-## Header 2
-### Header 3
+-   *Blockstar Advisors*- Content Writer (April 2022 - Present)
+-   *CanvasArtists*- Co-founder/crypto analyst (September 2021 - April 2022)
+-   *Morgan Stanley*- Wealth Management Intern (May 2021 - September 2021)
 
-- Bulleted
-- List
+## Writing Portfolio
 
-1. Numbered
-2. List
+**Articles**
 
-**Bold** and _Italic_ and `Code` text
+-   [What's the Deal with HEX?](https://blockstar.substack.com/p/whats-the-deal-with-hex)- *Blockstar Advisors*
 
-[Link](url) and ![Image](src)
-```
+-   	[Abridged version featured on Benzinga](https://www.benzinga.com/money/is-hex-a-pyramid-scheme/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-   [The WAVES Ponzi](https://blockstar.substack.com/p/the-waves-ponzi)- *Blockstar Advisors*
+-   [stETH-ETH Depeg](https://blockstar.substack.com/p/steth-eth-depeg)- *Blockstar Advisors*
 
-### Jekyll Themes
+**Analyst Reports**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zrampone/zrampone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-   [Unlimited Network Analyst Report](https://docs.google.com/document/d/1chqMhvj7h_HyHSQqNZeMYARQXKtw1Yy8/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *VC Application*
+-   [Everscale Network Analyst Report](https://docs.google.com/document/d/1-B7GvSs1RLvt6LjpmxMDwPh36QcLUiay/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *Submission for The Next Top Blockchain Analyst Competition by GDA Capital*
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-   	Awarded 1st place in the L1s Category by Everscale
+-   	[Video analysis link](https://www.loom.com/share/ba926c915b3c4b4d8c13670fcea3ff3e)
+   	
+## How to Contact
+- Email: zrampone@gmail.com
+- Telegram: @zrampone
+- Twitter: [@nfthunter131](https://twitter.com/nfthunter131)
+- [LinkedIn](https://www.linkedin.com/in/zachary-rampone-251029158/)
