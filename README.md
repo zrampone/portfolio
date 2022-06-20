@@ -1,7 +1,7 @@
 # portfolio
 Bio
 - 
-👋 Hi, I’m Zach Rampone and I am a crypto analyst, writer, and researcher mainly focused on DeFi.
+👋 Hi, I’m Zach Rampone and I'm a crypto analyst, writer, and researcher mainly focused on DeFi.
 
 Education
 -  University of Connecticut, Bachelors of Science in Finance (2021)
