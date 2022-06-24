@@ -16,12 +16,14 @@
 # Writing Portfolio
 
 **Articles**
+
 	 -   [What's the Deal with HEX?](https://blockstar.substack.com/p/whats-the-deal-with-hex)- *Blockstar Advisors*
 	 - [Abridged version featured on Benzinga](https://www.benzinga.com/money/is-hex-a-pyramid-scheme/)
 	 -   [The WAVES Ponzi](https://blockstar.substack.com/p/the-waves-ponzi)- *Blockstar Advisors*
 	 -   [stETH-ETH Depeg](https://blockstar.substack.com/p/steth-eth-depeg)- *Blockstar Advisors*
 
 **Analyst Reports**
+
 	 -   [Unlimited Network Analyst Report](https://docs.google.com/document/d/1chqMhvj7h_HyHSQqNZeMYARQXKtw1Yy8/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *VC Application*
 	 -   [Everscale Network Analyst Report](https://docs.google.com/document/d/1-B7GvSs1RLvt6LjpmxMDwPh36QcLUiay/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *Submission for The Next Top Blockchain Analyst Competition by GDA Capital*
 		 - Awarded 1st place in the L1s Category by Everscale
