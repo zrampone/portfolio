@@ -1,6 +1,6 @@
-<!-- hey my name is aactually gould -->
+<!-- Blank line necessary for "Bio" to not become the title -->
 
-# Bio Foox
+# Bio
 
 👋 Hi, I’m Zach Rampone and I'm a crypto analyst, writer, and researcher mainly focused on DeFi.
 
