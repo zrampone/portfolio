@@ -19,7 +19,7 @@
 ### Articles
 
  -   [What's the Deal with HEX?](https://blockstar.substack.com/p/whats-the-deal-with-hex)- *Blockstar Advisors*
- 	- [Abridged version featured on Benzinga](https://www.benzinga.com/money/is-hex-a-pyramid-scheme/)
+ 	 - [Abridged version featured on Benzinga](https://www.benzinga.com/money/is-hex-a-pyramid-scheme/)
  -   [The WAVES Ponzi](https://blockstar.substack.com/p/the-waves-ponzi)- *Blockstar Advisors*
  -   [stETH-ETH Depeg](https://blockstar.substack.com/p/steth-eth-depeg)- *Blockstar Advisors*
 
