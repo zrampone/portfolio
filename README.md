@@ -1,4 +1,4 @@
-hey my name is aactually gould
+<!-- hey my name is aactually gould -->
 
 # Bio Foox
 
