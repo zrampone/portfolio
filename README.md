@@ -18,8 +18,11 @@
 
 ### Articles
 
+ -   [Is Bancor Network in Trouble?](https://blockstar.substack.com/p/is-bancor-network-in-trouble)- Blockstar Advisors
  -   [The WAVES Ponzi](https://blockstar.substack.com/p/the-waves-ponzi)- *Blockstar Advisors*
  -   [stETH-ETH Depeg](https://blockstar.substack.com/p/steth-eth-depeg)- *Blockstar Advisors*
+ -   [Synthetix Network Overview](https://blockstar.substack.com/p/synthetix-network-overview)- Blockstar Advisors 
+    	 - [Abridged version featured on Benzinga](https://www.benzinga.com/money/is-it-time-to-buy-snx)
  -   [What's the Deal with HEX?](https://blockstar.substack.com/p/whats-the-deal-with-hex)- *Blockstar Advisors*
  	 - [Abridged version featured on Benzinga](https://www.benzinga.com/money/is-hex-a-pyramid-scheme/)
 
