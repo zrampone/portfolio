@@ -28,7 +28,9 @@
 
 ### Analyst Reports
 
- -   [Unlimited Network Analyst Report](https://docs.google.com/document/d/1chqMhvj7h_HyHSQqNZeMYARQXKtw1Yy8/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *VC Application*
+ - [Arweave Analyst Report](https://docs.google.com/document/d/1aX-fLioztTp6HRXfPJLTyN2WsuHhDSj9/edit)- VC Application
+ - [GMX Investment Memo](https://docs.google.com/document/d/1hd6hvSlCU4WJukxytD6tgpm8Uuav5jif/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- VC Application 
+-   [Unlimited Network Analyst Report](https://docs.google.com/document/d/1chqMhvj7h_HyHSQqNZeMYARQXKtw1Yy8/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *VC Application*
  -   [Everscale Network Analyst Report](https://docs.google.com/document/d/1-B7GvSs1RLvt6LjpmxMDwPh36QcLUiay/edit?usp=sharing&ouid=108451907790513150234&rtpof=true&sd=true)- *Submission for The Next Top Blockchain Analyst Competition by GDA Capital*
 	 - Awarded 1st place in the L1s Category by Everscale
 	 - [Video analysis link](https://www.loom.com/share/ba926c915b3c4b4d8c13670fcea3ff3e)
